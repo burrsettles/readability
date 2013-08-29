@@ -6,5 +6,5 @@ This simple module implements a few popular (and unpopular) text readability met
 [MIT licensed](http://opensource.org/licenses/MIT), because why not?
 
 Other similar software (optimized for English):
-*   https://github.com/DaveChild/Text-Statistics
-*   https://github.com/cgiffard/TextStatistics.js
+*   https://github.com/DaveChild/Text-Statistics (PHP)
+*   https://github.com/cgiffard/TextStatistics.js (Javascript)
